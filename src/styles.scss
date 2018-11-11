@@ -18,12 +18,12 @@ $bg: #f7f7f7;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  max-width: 100%;
 }
 
 .top {
   height: 780px;
   background-image: url("../images/wheel.png");
+  background-position: center;
   background-size: 100%;
   background-size: cover;
   &__navigation {
