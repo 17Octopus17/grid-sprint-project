@@ -2,12 +2,12 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
-  max-width: 100%; }
+  box-sizing: border-box; }
 
 .top {
   height: 780px;
   background-image: url("../images/wheel.png");
+  background-position: center;
   background-size: 100%;
   background-size: cover; }
   .top__navigation {
